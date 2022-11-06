@@ -18,14 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Yang(杨|楊)Bo(博)
-author: 杨博
-email: 博杨9602@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+title: Yang(杨|楊), Bo(博)
+author:
+  name: 杨博
+  email: 博杨9602@gmail.com
+description: 抱朴守真
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: b0yan9
-github_username:  boyang9602
+minima:
+  social_links:
+    linkedin: b0yan9
+    github:  boyang9602
+    google_scholar_id: wVYUFDMAAAAJ
 
 # Build settings
 theme: minima
