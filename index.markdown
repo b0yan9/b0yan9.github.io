@@ -5,5 +5,15 @@
 layout: home
 ---
 {% include intro.html %}
+## Education
+{% include education.html %}
 ## Publications
 {% include publications.html %}
+## Awards
+{% include awards.html %}
+## Experience
+{% include experience.html %}
+## Hobbies
+Plants🌱, Ping Pong🏓, Badminton🏸
+## Language
+中文, English, un peu Français
