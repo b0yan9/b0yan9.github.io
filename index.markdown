@@ -9,6 +9,8 @@ layout: home
 {% include education.html %}
 ## Publications
 {% include publications.html %}
+## Services
+{% include services.html %}
 ## Awards
 {% include awards.html %}
 ## Experience
