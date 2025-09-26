@@ -15,7 +15,5 @@ layout: home
 {% include awards.html %}
 ## Experience
 {% include experience.html %}
-## Hobbies
-Plants🌱, Ping Pong🏓, Badminton🏸
 ## Language
 中文, English, un peu Français
