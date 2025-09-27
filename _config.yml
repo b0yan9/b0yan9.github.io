@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Yang Bo
+title: Yang(杨) Bo(博)
 author:
   name: Yang Bo
-  email: 博杨9602@gmail.com
+  email: 博杨9602@gmail.com, 博=bo, 杨=yang
 description: 抱朴守真
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

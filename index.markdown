@@ -16,4 +16,4 @@ layout: home
 ## Experience
 {% include experience.html %}
 ## Language
-中文, English, un peu Français
+中文, English, un peu Français (A2)
